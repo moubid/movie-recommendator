@@ -7,6 +7,7 @@ a data base file which gives you plenty of movies with rating
 downlaod link: https://files.grouplens.org/datasets/movielens/ml-25m.zip
 (also stated in the ipynb file)
 required libraries:
+jupyter
 pandas
 numpy
 sklearn
